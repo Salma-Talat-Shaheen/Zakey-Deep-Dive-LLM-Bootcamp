@@ -29,7 +29,7 @@ This 4-month intensive program is designed to **build and deploy AI Agents** thr
 **Month 1:** Python & Data Science (Real Datasets)  
 **Month 2:** Build RAG & MCP Systems  
 **Month 3:** Advanced RAG + Deploy Models  
-**Month 4:** Launch Your Own AI Agent 🚀  
+**Month 4:** Launch Your Own AI Agent   
 
 ---
 
