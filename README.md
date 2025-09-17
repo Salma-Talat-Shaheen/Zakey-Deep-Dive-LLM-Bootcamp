@@ -1,6 +1,9 @@
 ## **Zakey Deep Dive LLM Bootcamp**
 
-I’m excited to share that I was **accepted into the Zakey Deep Dive LLM Bootcamp** 🎉  
+<p align="center">
+  <img src="https://github.com/Salma-Talat-Shaheen/Zakey-Deep-Dive-LLM-Bootcamp/blob/main/Linkedin_%20Zakey%20Bootcamp.jpg" width="600" />
+</p>
+I’m excited to share that I was **accepted into the Zakey Deep Dive LLM Bootcamp** 
 This 4-month intensive program is designed to **build and deploy AI Agents** through hands-on, project-based learning.  
 
 ---
@@ -29,7 +32,7 @@ This 4-month intensive program is designed to **build and deploy AI Agents** thr
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-This repository will include my projects, assignments, and resources from the bootcamp:
+This repository will include my projects, assignments, and resources from the bootcamp.
 
