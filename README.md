@@ -19,7 +19,6 @@ This 4-month intensive program is designed to **build and deploy AI Agents** thr
 - Hands-on projects: Build a live **AI Agent** for your portfolio  
 - Master the stack: **NLP, PyTorch, RAG, FastAPI, Streamlit**  
 - Weekly mentorship + career workshops  
-- Learn & apply **RGBA (Retrieval, Generation, Browsing, Action)** frameworks  
 - Deploy and showcase practical **AI Agents**  
 
 ---
