@@ -13,7 +13,6 @@ This 4-month intensive program is designed to **build and deploy AI Agents** thr
 - **Duration:** 4 Months (FREE | Online | Project-Based)  
 - **Focus:** Building real-world AI Agents  
 - **Made with ❤️ for Palestine**  
-- **Priority for UCAS / Palestinian CS students**  
 
 ### Program Highlights
 - Hands-on projects: Build a live **AI Agent** for your portfolio  
