@@ -1,7 +1,7 @@
 ## **Zakey Deep Dive LLM Bootcamp**
 
 <p align="center">
-  <img src="https://github.com/Salma-Talat-Shaheen/Zakey-Deep-Dive-LLM-Bootcamp/blob/main/Linkedin_%20Zakey%20Bootcamp.jpg" width="600" />
+  <img src="https://github.com/Salma-Talat-Shaheen/Zakey-Deep-Dive-LLM-Bootcamp/blob/main/Linkedin_%20Zakey%20Bootcamp.jpg" width="400" />
 </p>
 
 I’m excited to share that I was **accepted into the Zakey Deep Dive LLM Bootcamp** 
